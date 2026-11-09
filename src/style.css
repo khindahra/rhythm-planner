@@ -1202,22 +1202,48 @@ main {
 .account-email {
   color: #c2d6b1;
 }
-.sync-conflict {
+.sync-conflicts {
   grid-column: 1/-1;
 }
-.version-compare {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
+.sync-conflicts-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
 }
-.version-compare pre {
-  max-height: 250px;
-  overflow: auto;
-  background: #11141a;
-  padding: 14px;
-  font-size: 11px;
-  color: #b6bfca;
-  border-radius: 8px;
+.sync-conflicts-heading h2 {
+  margin: 0;
+}
+.sync-versions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sync-version-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 12px 0;
+  border-top: 1px solid var(--border);
+  overflow-wrap: anywhere;
+  font-size: 13px;
+}
+.sync-version-row small {
+  display: block;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.sync-version-row button {
+  margin-top: 7px;
+  padding: 6px 10px;
+  font-size: 12px;
+}
+.version-newer {
+  display: inline-block;
+  margin-left: 6px;
+  color: var(--accent);
+  font-size: 12px;
 }
 .notice {
   display: flex;
@@ -1823,8 +1849,11 @@ main {
   .weekday-picker {
     gap: 5px;
   }
-  .version-compare {
-    grid-template-columns: 1fr;
+  .sync-version-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .sync-version-title {
+    grid-column: 1/-1;
   }
   .toast {
     bottom: 84px;

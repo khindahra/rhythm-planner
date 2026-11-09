@@ -9,7 +9,7 @@ import {
   defaultSettings,
   eventSchema,
 } from "./model";
-import { mergeRemote, validateEvent } from "./engine";
+import { mergeRemote, sameRecord, validateEvent } from "./engine";
 import { assertOccurrenceCanBeSelected } from "./availability";
 export class PlannerDB extends Dexie {
   rows!: Table<Row, string>;
@@ -31,6 +31,20 @@ export async function selectAccount(id?: string) {
   db.close();
   db = new PlannerDB(`rhythm-${id || "guest"}`);
   await db.open();
+  // Older builds could flag identical JSON objects with different key orders.
+  await db.rows
+    .filter((row) => !!row.conflict)
+    .modify((row) => {
+      const other = row.conflict;
+      if (!other || !sameRecord(row, other)) return false;
+      if (row.conflictSource !== "import") {
+        row.revision = other.revision;
+        row.updated_at = other.updated_at;
+        row.dirty = false;
+      }
+      delete row.conflict;
+      delete row.conflictSource;
+    });
 }
 export async function save(
   type: Row["type"],
@@ -45,6 +59,7 @@ export async function save(
       payload,
       deleted: false,
       revision: old?.revision || 0,
+      updated_at: new Date().toISOString(),
       dirty: true,
       mutationId: crypto.randomUUID(),
       conflict: old?.conflict,
@@ -60,6 +75,7 @@ export async function remove(id: string) {
       await db.rows.put({
         ...old,
         deleted: true,
+        updated_at: new Date().toISOString(),
         dirty: true,
         mutationId: crypto.randomUUID(),
       });
@@ -164,27 +180,24 @@ export async function finishAction(row: Row) {
     if (a.kind === "booking") await setStatus(a.occurrenceId, "booked");
   });
 }
-export async function resolve(id: string, choice: "local" | "remote") {
+export async function resolve(id: string, choice: "local" | "remote" | "both") {
   await db.transaction("rw", db.rows, async () => {
     const local = await db.rows.get(id);
     if (!local?.conflict) return;
     const remote = local.conflict;
-    await db.rows.put(
-      choice === "remote"
-        ? {
-            ...remote,
-            dirty: local.conflictSource === "import",
-            mutationId: crypto.randomUUID(),
-          }
-        : {
-            ...local,
-            revision: remote.revision,
-            conflict: undefined,
-            conflictSource: undefined,
-            dirty: true,
-            mutationId: crypto.randomUUID(),
-          },
-    );
+    const fromBackup = local.conflictSource === "import";
+    if (choice === "both" && local.type === "event")
+      await save("event", local.payload);
+    await db.rows.put({
+      ...(choice === "local" ? local : remote),
+      revision: fromBackup ? local.revision : remote.revision,
+      conflict: undefined,
+      conflictSource: undefined,
+      dirty: fromBackup
+        ? choice !== "local" || local.dirty
+        : choice === "local",
+      mutationId: crypto.randomUUID(),
+    });
   });
 }
 let running: Promise<void> | undefined;
@@ -231,7 +244,14 @@ async function runSync() {
       // An edit made while the request was in flight must remain queued.
       await localDB.rows.put(
         latest.mutationId === row.mutationId
-          ? { ...remote, dirty: false, mutationId: row.mutationId }
+          ? {
+              ...remote,
+              updated_at: remote.updated_at ?? latest.updated_at,
+              conflict: latest.conflict,
+              conflictSource: latest.conflictSource,
+              dirty: false,
+              mutationId: row.mutationId,
+            }
           : { ...latest, revision: remote.revision },
       );
     });
@@ -240,7 +260,7 @@ async function runSync() {
   for (let offset = 0; ; offset += 500) {
     const { data, error } = await client
       .from("planner_records")
-      .select("id,type,payload,deleted,revision")
+      .select("id,type,payload,deleted,revision,updated_at")
       .eq("user_id", session.user.id)
       .order("id")
       .range(offset, offset + 499);
@@ -341,11 +361,7 @@ export async function importBackup(file: File) {
   await db.transaction("rw", db.rows, async () => {
     for (const r of rows) {
       const old = await db.rows.get(r.id);
-      if (
-        old &&
-        (JSON.stringify(old.payload) !== JSON.stringify(r.payload) ||
-          old.deleted !== r.deleted)
-      ) {
+      if (old && !sameRecord(old, r)) {
         await db.rows.put({
           ...old,
           conflictSource: "import",
@@ -355,6 +371,7 @@ export async function importBackup(file: File) {
             payload: r.payload,
             deleted: r.deleted,
             revision: old.revision,
+            updated_at: r.updated_at,
           },
         });
       } else if (!old)
@@ -364,6 +381,7 @@ export async function importBackup(file: File) {
           dirty: true,
           mutationId: crypto.randomUUID(),
           conflict: undefined,
+          conflictSource: undefined,
         });
     }
   });

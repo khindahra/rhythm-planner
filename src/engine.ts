@@ -5,6 +5,7 @@ import {
   type Collision,
   type Occurrence,
   type PlanEvent,
+  type RemoteRow,
   type Row,
   type Settings,
 } from "./model";
@@ -766,18 +767,50 @@ export function actionState(a: Action, now = Date.now()) {
     return "snoozed";
   return Date.parse(a.due) < now ? "overdue" : "pending";
 }
-export function mergeRemote(local: Row | undefined, remote: RemoteLike): Row {
-  if (local?.conflict) return local;
+function canonicalPayload(payload: Row["payload"]) {
+  return JSON.stringify(payload, (_key, value) =>
+    value && typeof value === "object" && !Array.isArray(value)
+      ? Object.fromEntries(
+          Object.keys(value)
+            .sort()
+            .map((key) => [key, value[key]]),
+        )
+      : value,
+  );
+}
+
+export function sameRecord(a: RemoteRow, b: RemoteRow) {
+  return (
+    a.type === b.type &&
+    a.deleted === b.deleted &&
+    canonicalPayload(a.payload) === canonicalPayload(b.payload)
+  );
+}
+
+export function mergeRemote(local: Row | undefined, remote: RemoteRow): Row {
+  if (local?.conflict) {
+    if (remote.updated_at) {
+      if (local.conflictSource === "import") {
+        if (
+          !local.dirty &&
+          local.revision === remote.revision &&
+          sameRecord(local, remote)
+        )
+          return { ...local, updated_at: remote.updated_at };
+      } else if (
+        local.conflict.revision === remote.revision &&
+        sameRecord(local.conflict, remote)
+      ) {
+        return { ...local, conflict: remote };
+      }
+    }
+    return local;
+  }
   if (local?.dirty) {
     if (local.revision === remote.revision) return local;
-    if (
-      local.deleted === remote.deleted &&
-      local.type === remote.type &&
-      JSON.stringify(local.payload) === JSON.stringify(remote.payload)
-    )
+    if (sameRecord(local, remote))
       return { ...remote, dirty: false, mutationId: crypto.randomUUID() };
     return { ...local, conflict: remote };
   }
   return { ...remote, dirty: false, mutationId: crypto.randomUUID() };
 }
-type RemoteLike = Pick<Row, "id" | "type" | "payload" | "revision" | "deleted">;

@@ -6,10 +6,11 @@ import {
   remove,
   setStatus,
   finishAction,
+  importBackup,
   selectAccount,
   resolve,
 } from "./store";
-import { newEvent, type Action } from "./model";
+import { defaultSettings, newEvent, type Action } from "./model";
 import { reconcileActionRows } from "./engine";
 beforeEach(async () => {
   await selectAccount("test");
@@ -116,5 +117,30 @@ describe("IndexedDB lifecycle", () => {
     expect(resolved?.deleted).toBe(false);
     expect(resolved?.dirty).toBe(true);
     expect(resolved?.conflict).toBeUndefined();
+  });
+  it("imports settings with reordered keys without a version conflict", async () => {
+    await save("settings", defaultSettings, "settings");
+    const original = (await db.rows.get("settings"))!;
+    const { zone, lead, repeatMinutes } = defaultSettings;
+    const rows = [{ ...original, payload: { repeatMinutes, lead, zone } }];
+    await importBackup(
+      new File(
+        [JSON.stringify({ format: "rhythm", version: 1, rows })],
+        "backup.json",
+      ),
+    );
+    expect(await db.rows.get("settings")).toEqual(original);
+  });
+  it("clears equivalent conflicts from older builds when reopening an account", async () => {
+    await save("settings", defaultSettings, "settings");
+    const original = (await db.rows.get("settings"))!;
+    const { zone, lead, repeatMinutes } = defaultSettings;
+    await db.rows.put({
+      ...original,
+      conflictSource: "import",
+      conflict: { ...original, payload: { repeatMinutes, lead, zone } },
+    });
+    await selectAccount("test");
+    expect(await db.rows.get("settings")).toEqual(original);
   });
 });

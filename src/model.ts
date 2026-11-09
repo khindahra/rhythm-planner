@@ -103,6 +103,7 @@ export interface RemoteRow {
   payload: Payload;
   deleted: boolean;
   revision: number;
+  updated_at?: string;
 }
 export interface Row extends RemoteRow {
   dirty: boolean;

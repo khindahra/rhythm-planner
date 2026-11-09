@@ -84,6 +84,8 @@ const nav = [
 ] as const;
 const format = (n: number, zone: string, pattern = "HH:mm") =>
   DateTime.fromMillis(n, { zone }).setLocale("ru").toFormat(pattern);
+const savedMinute = (time?: string) =>
+  typeof time === "string" ? Math.floor(Date.parse(time) / 60000) : NaN;
 
 function App() {
   const [account, setAccount] = useState<string | undefined>();
@@ -102,6 +104,7 @@ function App() {
   } | null>(null);
   const [message, setMessage] = useState("");
   const [syncing, setSyncing] = useState(false);
+  const [reviewVersions, setReviewVersions] = useState(false);
   const [online, setOnline] = useState(navigator.onLine);
   const [history, setHistory] = useState(false);
   const [showOriginal, setShowOriginal] = useState(false);
@@ -430,12 +433,17 @@ function App() {
               <button onClick={update}>Обновить приложение</button>
             </div>
           )}
-          {syncConflicts.length > 0 && (
+          {syncConflicts.length > 0 && section !== "settings" && (
             <div className="notice warning">
               <AlertTriangle size={18} /> Сохранены разные версии{" "}
               {syncConflicts.length} записей.{" "}
-              <button onClick={() => setSection("settings")}>
-                Сравнить версии
+              <button
+                onClick={() => {
+                  setReviewVersions(true);
+                  setSection("settings");
+                }}
+              >
+                Выбрать версии
               </button>
             </div>
           )}
@@ -808,6 +816,126 @@ function App() {
           )}
           {section === "settings" && (
             <div className="settings-grid">
+              {syncConflicts.length > 0 && (
+                <section
+                  className="card sync-conflicts"
+                  aria-labelledby="sync-versions-heading"
+                >
+                  <div className="sync-conflicts-heading">
+                    <h2 id="sync-versions-heading">
+                      Разные версии · {syncConflicts.length}
+                    </h2>
+                    <button
+                      aria-expanded={reviewVersions}
+                      onClick={() => setReviewVersions(!reviewVersions)}
+                    >
+                      {reviewVersions ? "Свернуть" : "Выбрать версии"}
+                    </button>
+                  </div>
+                  {reviewVersions && (
+                    <>
+                      <p className="footnote">
+                        Пометка «Новее» сравнивает время сохранения, если оно
+                        известно у обеих версий.
+                      </p>
+                      <ul className="sync-versions">
+                        {syncConflicts.map((r) => {
+                          const other = r.conflict;
+                          if (!other) return null;
+                          const fromBackup = r.conflictSource === "import";
+                          const localTime = savedMinute(r.updated_at);
+                          const otherTime = savedMinute(other.updated_at);
+                          const versions = [
+                            {
+                              choice: "local",
+                              source: "Локальная",
+                              action: "Оставить локальную",
+                              time: localTime,
+                              newer: localTime > otherTime,
+                              deleted: r.deleted,
+                            },
+                            {
+                              choice: "remote",
+                              source: fromBackup
+                                ? "Из резервной копии"
+                                : "Облачная",
+                              action: fromBackup
+                                ? "Принять из копии"
+                                : "Оставить облачную",
+                              time: otherTime,
+                              newer: otherTime > localTime,
+                              deleted: other.deleted,
+                            },
+                          ] as const;
+                          const [eventId, date] = r.id.slice(4).split("@");
+                          const occurrenceTitle =
+                            r.type === "occurrence"
+                              ? (
+                                  events.find((event) => event.id === eventId)
+                                    ?.payload as PlanEvent | undefined
+                                )?.title
+                              : undefined;
+                          const title =
+                            "title" in r.payload
+                              ? r.payload.title
+                              : r.type === "settings"
+                                ? "Настройки"
+                                : occurrenceTitle || "Статус занятия";
+                          return (
+                            <li className="sync-version-row" key={r.id}>
+                              <div className="sync-version-title">
+                                <strong>{title}</strong>
+                                {r.type === "occurrence" && date && (
+                                  <small>{date}</small>
+                                )}
+                                {(Number.isNaN(localTime) ||
+                                  Number.isNaN(otherTime)) && (
+                                  <small>Какая новее — неизвестно</small>
+                                )}
+                                {r.type === "event" && (
+                                  <button
+                                    className="text-button"
+                                    onClick={() =>
+                                      act(() => resolve(r.id, "both"))
+                                    }
+                                  >
+                                    Сохранить обе
+                                  </button>
+                                )}
+                              </div>
+                              {versions.map((version) => (
+                                <div key={version.choice}>
+                                  <strong>{version.source}</strong>
+                                  {version.newer && (
+                                    <span className="version-newer">Новее</span>
+                                  )}
+                                  <small>
+                                    {Number.isFinite(version.time)
+                                      ? format(
+                                          version.time * 60000,
+                                          zone,
+                                          "d LLL yyyy HH:mm",
+                                        )
+                                      : "Дата неизвестна"}
+                                    {version.deleted && " · Удалена"}
+                                  </small>
+                                  <button
+                                    onClick={() =>
+                                      act(() => resolve(r.id, version.choice))
+                                    }
+                                  >
+                                    {version.action}
+                                  </button>
+                                </div>
+                              ))}
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </>
+                  )}
+                </section>
+              )}
               <section className="card">
                 <h2>Общие настройки</h2>
                 <label>
@@ -1027,20 +1155,15 @@ function App() {
                       accept=".json,application/json"
                       onChange={(e) => {
                         const f = e.target.files?.[0];
-                        if (f)
-                          act(
-                            () => importBackup(f),
-                            "Импорт завершён. Отличающиеся записи доступны для сравнения.",
-                          );
+                        if (f) act(() => importBackup(f), "Импорт завершён.");
                         e.target.value = "";
                       }}
                     />
                   </label>
                 </div>
                 <p className="footnote">
-                  Импорт добавляет записи и показывает конфликты версий. Браузер
-                  может очистить данные при нехватке места: используйте облако и
-                  резервные копии.
+                  Если запись отличается от той, что уже сохранена, выберите
+                  версию вверху настроек.
                 </p>
                 <h3>Удалённые события</h3>
                 {rows
@@ -1061,44 +1184,6 @@ function App() {
                     </div>
                   ))}
               </section>
-              {syncConflicts.map((r) => (
-                <section className="card sync-conflict" key={r.id}>
-                  <h2>Сравнение версий</h2>
-                  <p>{r.id}</p>
-                  <div className="version-compare">
-                    <div>
-                      <h3>На этом устройстве {r.deleted ? "(удалено)" : ""}</h3>
-                      <pre>{JSON.stringify(r.payload, null, 2)}</pre>
-                    </div>
-                    <div>
-                      <h3>
-                        Вторая версия {r.conflict!.deleted ? "(удалено)" : ""}
-                      </h3>
-                      <pre>{JSON.stringify(r.conflict!.payload, null, 2)}</pre>
-                    </div>
-                  </div>
-                  <div className="button-wrap">
-                    <button onClick={() => act(() => resolve(r.id, "local"))}>
-                      Оставить локальную
-                    </button>
-                    <button onClick={() => act(() => resolve(r.id, "remote"))}>
-                      Принять вторую
-                    </button>
-                    <button
-                      onClick={() =>
-                        act(async () => {
-                          if (r.type === "event")
-                            await save("event", r.payload);
-                          await resolve(r.id, "remote");
-                        })
-                      }
-                      disabled={r.type !== "event"}
-                    >
-                      Сохранить обе
-                    </button>
-                  </div>
-                </section>
-              ))}
             </div>
           )}
           <footer className="page-footer">

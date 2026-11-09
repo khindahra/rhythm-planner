@@ -74,9 +74,14 @@ it("retains both sides of a remote deletion conflict", async () => {
   mock.rpc.mockResolvedValue({
     data: { ok: false, row: { ...local, deleted: true, revision: 2 } },
   });
+  const updated_at = "2026-11-09T12:00:00Z";
+  mock.pull.mockResolvedValue({
+    data: [{ ...local, deleted: true, revision: 2, updated_at }],
+  });
   await sync();
   expect((await store.db.rows.get("x"))?.deleted).toBe(false);
   expect((await store.db.rows.get("x"))?.conflict?.deleted).toBe(true);
+  expect((await store.db.rows.get("x"))?.conflict?.updated_at).toBe(updated_at);
 });
 it("uploads tombstones instead of deleting remote rows", async () => {
   await save("event", event(), "x");
