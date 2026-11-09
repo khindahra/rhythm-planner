@@ -1127,12 +1127,14 @@ function App() {
                   У испанского, танцев и бассейна один тип — занятие.
                   Расписание, запись и запас времени настраиваются внутри.
                 </p>
-                <button onClick={() => setSection("activities")}>
-                  Открыть мои занятия
-                </button>
-                <button onClick={() => openEditor("activity")}>
-                  Добавить занятие
-                </button>
+                <div className="button-wrap">
+                  <button onClick={() => setSection("activities")}>
+                    Открыть мои занятия
+                  </button>
+                  <button onClick={() => openEditor("activity")}>
+                    Добавить занятие
+                  </button>
+                </div>
               </section>
               <section className="card">
                 <h2>Резервные копии</h2>
