@@ -1,0 +1,3313 @@
+{
+  "id": "vesna-2026-11-v2",
+  "source": "https://vesna-st.ru/schedule",
+  "capturedAt": "2026-11-08T15:48:11.976Z",
+  "from": "2026-11-08",
+  "through": "2026-11-29",
+  "unavailableDates": [
+    "2026-11-30"
+  ],
+  "sessionCount": 139,
+  "activityCount": 23,
+  "rows": [
+    {
+      "id": "vesna:400158108112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая фулл боди",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          7
+        ],
+        "until": "2026-11-29",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-08, 2026-11-15, 2026-11-22, 2026-11-29\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158108112026",
+            "400158115112026",
+            "400158122112026",
+            "400158129112026"
+          ],
+          "dates": [
+            "2026-11-08",
+            "2026-11-15",
+            "2026-11-22",
+            "2026-11-29"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400167108112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-08",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          7
+        ],
+        "until": "2026-11-29",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Расторгуева Лада\nПроверенные даты: 2026-11-08, 2026-11-15, 2026-11-22, 2026-11-29\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Расторгуева Лада",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400167108112026",
+            "400167115112026",
+            "400167122112026",
+            "400167129112026"
+          ],
+          "dates": [
+            "2026-11-08",
+            "2026-11-15",
+            "2026-11-22",
+            "2026-11-29"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400164208112026",
+      "event": {
+        "kind": "activity",
+        "title": "Аэрофитнес",
+        "date": "2026-11-08",
+        "time": "13:00",
+        "endTime": "14:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          7
+        ],
+        "until": "2026-11-29",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-08, 2026-11-15, 2026-11-22, 2026-11-29\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400164208112026",
+            "400164215112026",
+            "400164222112026",
+            "400164229112026"
+          ],
+          "dates": [
+            "2026-11-08",
+            "2026-11-15",
+            "2026-11-22",
+            "2026-11-29"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400167208112026",
+      "event": {
+        "kind": "activity",
+        "title": "Герли хип-хоп",
+        "date": "2026-11-08",
+        "time": "13:00",
+        "endTime": "14:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          7
+        ],
+        "until": "2026-11-29",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Расторгуева Лада\nПроверенные даты: 2026-11-08, 2026-11-15, 2026-11-22, 2026-11-29\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Расторгуева Лада",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400167208112026",
+            "400167215112026",
+            "400167222112026",
+            "400167229112026"
+          ],
+          "dates": [
+            "2026-11-08",
+            "2026-11-15",
+            "2026-11-22",
+            "2026-11-29"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400043909112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая для ягодиц",
+        "date": "2026-11-09",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-09, 2026-11-16, 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400043909112026",
+            "400043916112026",
+            "400043923112026"
+          ],
+          "dates": [
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044109112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес классический",
+        "date": "2026-11-09",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-09, 2026-11-16, 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044109112026",
+            "400044116112026",
+            "400044123112026"
+          ],
+          "dates": [
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400046609112026",
+      "event": {
+        "kind": "activity",
+        "title": "Аэробика для начинающих",
+        "date": "2026-11-09",
+        "time": "17:00",
+        "endTime": "18:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Четвертый (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-09, 2026-11-16, 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Четвертый (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400046609112026",
+            "400046616112026",
+            "400046623112026"
+          ],
+          "dates": [
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:401625109112026",
+      "event": {
+        "kind": "activity",
+        "title": "Подкачка",
+        "date": "2026-11-09",
+        "time": "18:00",
+        "endTime": "19:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Расторгуева Лада\nПроверенные даты: 2026-11-09, 2026-11-16, 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Расторгуева Лада",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "401625109112026",
+            "401625116112026",
+            "401625123112026"
+          ],
+          "dates": [
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044409112026",
+      "event": {
+        "kind": "activity",
+        "title": "Герли хип-хоп",
+        "date": "2026-11-09",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Четвертый (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Расторгуева Лада\nПроверенные даты: 2026-11-09, 2026-11-16, 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Расторгуева Лада",
+          "room": "Четвертый (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044409112026",
+            "400044416112026",
+            "400044423112026"
+          ],
+          "dates": [
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044909112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес с оборудованием",
+        "date": "2026-11-09",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-09",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-09\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044909112026"
+          ],
+          "dates": [
+            "2026-11-09"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044923112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес с оборудованием",
+        "date": "2026-11-23",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044923112026"
+          ],
+          "dates": [
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400020009112026",
+      "event": {
+        "kind": "activity",
+        "title": "Бачата дэнсфит",
+        "date": "2026-11-09",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-09",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-09\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400020009112026"
+          ],
+          "dates": [
+            "2026-11-09"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400020023112026",
+      "event": {
+        "kind": "activity",
+        "title": "Бачата дэнсфит",
+        "date": "2026-11-23",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400020023112026"
+          ],
+          "dates": [
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044609112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-09",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-09",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-09\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044609112026"
+          ],
+          "dates": [
+            "2026-11-09"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044623112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-23",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-23",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-23\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044623112026"
+          ],
+          "dates": [
+            "2026-11-23"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400153610112026",
+      "event": {
+        "kind": "activity",
+        "title": "Дэнс микс",
+        "date": "2026-11-10",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Наконечная Карина\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Наконечная Карина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400153610112026",
+            "400153617112026",
+            "400153624112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400153710112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-10",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Наконечная Карина\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Наконечная Карина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400153710112026",
+            "400153717112026",
+            "400153724112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400162810112026",
+      "event": {
+        "kind": "activity",
+        "title": "Дэнс микс",
+        "date": "2026-11-10",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Наконечная Карина\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Наконечная Карина",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400162810112026",
+            "400162817112026",
+            "400162824112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400157910112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая фулл боди",
+        "date": "2026-11-10",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Кайдаш Юлия\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Кайдаш Юлия",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400157910112026",
+            "400157917112026",
+            "400157924112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400158210112026",
+      "event": {
+        "kind": "activity",
+        "title": "Зумба",
+        "date": "2026-11-10",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Кайдаш Юлия\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Кайдаш Юлия",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158210112026",
+            "400158217112026",
+            "400158224112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400159210112026",
+      "event": {
+        "kind": "activity",
+        "title": "Творческая группа",
+        "date": "2026-11-10",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Третий (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Туча Анна\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Туча Анна",
+          "room": "Третий (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400159210112026",
+            "400159217112026",
+            "400159224112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400158610112026",
+      "event": {
+        "kind": "activity",
+        "title": "Здоровье спины",
+        "date": "2026-11-10",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Кайдаш Юлия\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Кайдаш Юлия",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158610112026",
+            "400158617112026",
+            "400158624112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:401625710112026",
+      "event": {
+        "kind": "activity",
+        "title": "Творческая группа",
+        "date": "2026-11-10",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          2
+        ],
+        "until": "2026-11-24",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Третий (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Курков Сергей\nПроверенные даты: 2026-11-10, 2026-11-17, 2026-11-24\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Курков Сергей",
+          "room": "Третий (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "401625710112026",
+            "401625717112026",
+            "401625724112026"
+          ],
+          "dates": [
+            "2026-11-10",
+            "2026-11-17",
+            "2026-11-24"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400159611112026",
+      "event": {
+        "kind": "activity",
+        "title": "Интервальная тренировка",
+        "date": "2026-11-11",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-11, 2026-11-18, 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400159611112026",
+            "400159618112026",
+            "400159625112026"
+          ],
+          "dates": [
+            "2026-11-11",
+            "2026-11-18",
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400160611112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес с оборудованием",
+        "date": "2026-11-11",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-11, 2026-11-18, 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400160611112026",
+            "400160618112026",
+            "400160625112026"
+          ],
+          "dates": [
+            "2026-11-11",
+            "2026-11-18",
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400161211112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая для начинающих",
+        "date": "2026-11-11",
+        "time": "17:00",
+        "endTime": "18:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Соловьева Анастасия\nПроверенные даты: 2026-11-11, 2026-11-18, 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Соловьева Анастасия",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400161211112026",
+            "400161218112026",
+            "400161225112026"
+          ],
+          "dates": [
+            "2026-11-11",
+            "2026-11-18",
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400161311112026",
+      "event": {
+        "kind": "activity",
+        "title": "Мобилити",
+        "date": "2026-11-11",
+        "time": "18:00",
+        "endTime": "19:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Соловьева Анастасия\nПроверенные даты: 2026-11-11, 2026-11-18, 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Соловьева Анастасия",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400161311112026",
+            "400161318112026",
+            "400161325112026"
+          ],
+          "dates": [
+            "2026-11-11",
+            "2026-11-18",
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400161911112026",
+      "event": {
+        "kind": "activity",
+        "title": "Латина микс",
+        "date": "2026-11-11",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-11",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-11\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400161911112026"
+          ],
+          "dates": [
+            "2026-11-11"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400161925112026",
+      "event": {
+        "kind": "activity",
+        "title": "Латина микс",
+        "date": "2026-11-25",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400161925112026"
+          ],
+          "dates": [
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400160811112026",
+      "event": {
+        "kind": "activity",
+        "title": "Лэдис стайл ПРО",
+        "date": "2026-11-11",
+        "time": "20:00",
+        "endTime": "21:30",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Туча Анна\nПроверенные даты: 2026-11-11, 2026-11-18, 2026-11-25\nКоммерческий класс — дополнительная оплата по правилам студии.\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Туча Анна",
+          "room": "Первый (большой) зал",
+          "commercial": true,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400160811112026",
+            "400160818112026",
+            "400160825112026"
+          ],
+          "dates": [
+            "2026-11-11",
+            "2026-11-18",
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400162511112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая для ягодиц",
+        "date": "2026-11-11",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-11",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-11\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400162511112026"
+          ],
+          "dates": [
+            "2026-11-11"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400162525112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая для ягодиц",
+        "date": "2026-11-25",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400162525112026"
+          ],
+          "dates": [
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400163611112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес с оборудованием",
+        "date": "2026-11-11",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-11",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-11\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400163611112026"
+          ],
+          "dates": [
+            "2026-11-11"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400163625112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес с оборудованием",
+        "date": "2026-11-25",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-25",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Карасева Светлана\nПроверенные даты: 2026-11-25\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Карасева Светлана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400163625112026"
+          ],
+          "dates": [
+            "2026-11-25"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400158712112026",
+      "event": {
+        "kind": "activity",
+        "title": "Здоровье спины",
+        "date": "2026-11-12",
+        "time": "10:00",
+        "endTime": "11:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158712112026",
+            "400158719112026",
+            "400158726112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400164112112026",
+      "event": {
+        "kind": "activity",
+        "title": "Аэрофитнес",
+        "date": "2026-11-12",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400164112112026",
+            "400164119112026",
+            "400164126112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400158012112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая фулл боди",
+        "date": "2026-11-12",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158012112026",
+            "400158019112026",
+            "400158026112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400164612112026",
+      "event": {
+        "kind": "activity",
+        "title": "Аэрофитнес",
+        "date": "2026-11-12",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400164612112026",
+            "400164619112026",
+            "400164626112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400159312112026",
+      "event": {
+        "kind": "activity",
+        "title": "Творческая группа",
+        "date": "2026-11-12",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Третий (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Курков Сергей\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nКоммерческий класс — дополнительная оплата по правилам студии.\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Курков Сергей",
+          "room": "Третий (большой) зал",
+          "commercial": true,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400159312112026",
+            "400159319112026",
+            "400159326112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400164812112026",
+      "event": {
+        "kind": "activity",
+        "title": "Фитнес-йога",
+        "date": "2026-11-12",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          4
+        ],
+        "until": "2026-11-26",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-12, 2026-11-19, 2026-11-26\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400164812112026",
+            "400164819112026",
+            "400164826112026"
+          ],
+          "dates": [
+            "2026-11-12",
+            "2026-11-19",
+            "2026-11-26"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400165513112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая фулл боди",
+        "date": "2026-11-13",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400165513112026",
+            "400165520112026",
+            "400165527112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400165713112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес классический",
+        "date": "2026-11-13",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400165713112026",
+            "400165720112026",
+            "400165727112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400166013112026",
+      "event": {
+        "kind": "activity",
+        "title": "Аэробика для начинающих",
+        "date": "2026-11-13",
+        "time": "17:00",
+        "endTime": "18:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400166013112026",
+            "400166020112026",
+            "400166027112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400166113112026",
+      "event": {
+        "kind": "activity",
+        "title": "Фитнес-йога",
+        "date": "2026-11-13",
+        "time": "18:00",
+        "endTime": "19:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Ульянова Жанна\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Ульянова Жанна",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400166113112026",
+            "400166120112026",
+            "400166127112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400158313112026",
+      "event": {
+        "kind": "activity",
+        "title": "Зумба",
+        "date": "2026-11-13",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Кайдаш Юлия\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Кайдаш Юлия",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400158313112026",
+            "400158320112026",
+            "400158327112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400166513112026",
+      "event": {
+        "kind": "activity",
+        "title": "Хай хилс",
+        "date": "2026-11-13",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Четвертый (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Туча Анна\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Туча Анна",
+          "room": "Четвертый (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400166513112026",
+            "400166520112026",
+            "400166527112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400165813112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-13",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          5
+        ],
+        "until": "2026-11-27",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Кайдаш Юлия\nПроверенные даты: 2026-11-13, 2026-11-20, 2026-11-27\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Кайдаш Юлия",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400165813112026",
+            "400165820112026",
+            "400165827112026"
+          ],
+          "dates": [
+            "2026-11-13",
+            "2026-11-20",
+            "2026-11-27"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400159714112026",
+      "event": {
+        "kind": "activity",
+        "title": "Интервальная тренировка",
+        "date": "2026-11-14",
+        "time": "11:00",
+        "endTime": "12:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          6
+        ],
+        "until": "2026-11-28",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-14, 2026-11-21, 2026-11-28\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400159714112026",
+            "400159721112026",
+            "400159728112026"
+          ],
+          "dates": [
+            "2026-11-14",
+            "2026-11-21",
+            "2026-11-28"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400166814112026",
+      "event": {
+        "kind": "activity",
+        "title": "Пилатес классический",
+        "date": "2026-11-14",
+        "time": "12:00",
+        "endTime": "13:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          6
+        ],
+        "until": "2026-11-28",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Суркова Ирина\nПроверенные даты: 2026-11-14, 2026-11-21, 2026-11-28\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Суркова Ирина",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400166814112026",
+            "400166821112026",
+            "400166828112026"
+          ],
+          "dates": [
+            "2026-11-14",
+            "2026-11-21",
+            "2026-11-28"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400166914112026",
+      "event": {
+        "kind": "activity",
+        "title": "Лэдис стайл",
+        "date": "2026-11-14",
+        "time": "13:30",
+        "endTime": "14:30",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          6
+        ],
+        "until": "2026-11-28",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Туча Анна\nПроверенные даты: 2026-11-14, 2026-11-21, 2026-11-28\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Туча Анна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400166914112026",
+            "400166921112026",
+            "400166928112026"
+          ],
+          "dates": [
+            "2026-11-14",
+            "2026-11-21",
+            "2026-11-28"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400167014112026",
+      "event": {
+        "kind": "activity",
+        "title": "Джаз-фанк",
+        "date": "2026-11-14",
+        "time": "15:00",
+        "endTime": "16:00",
+        "zone": "Europe/Moscow",
+        "repeat": "weekly",
+        "weekdays": [
+          6
+        ],
+        "until": "2026-11-28",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Илясова Алёна\nПроверенные даты: 2026-11-14, 2026-11-21, 2026-11-28\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Илясова Алёна",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400167014112026",
+            "400167021112026",
+            "400167028112026"
+          ],
+          "dates": [
+            "2026-11-14",
+            "2026-11-21",
+            "2026-11-28"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044916112026",
+      "event": {
+        "kind": "activity",
+        "title": "Фитнес-йога",
+        "date": "2026-11-16",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-16",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-16\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044916112026"
+          ],
+          "dates": [
+            "2026-11-16"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400020016112026",
+      "event": {
+        "kind": "activity",
+        "title": "Латина микс",
+        "date": "2026-11-16",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-16",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-16\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400020016112026"
+          ],
+          "dates": [
+            "2026-11-16"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400044616112026",
+      "event": {
+        "kind": "activity",
+        "title": "Стретчинг",
+        "date": "2026-11-16",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          1
+        ],
+        "until": "2026-11-16",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Первый (большой) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-16\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Первый (большой) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400044616112026"
+          ],
+          "dates": [
+            "2026-11-16"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400161918112026",
+      "event": {
+        "kind": "activity",
+        "title": "Латина микс",
+        "date": "2026-11-18",
+        "time": "19:00",
+        "endTime": "20:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-18",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-18\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400161918112026"
+          ],
+          "dates": [
+            "2026-11-18"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400162518112026",
+      "event": {
+        "kind": "activity",
+        "title": "Силовая для ягодиц",
+        "date": "2026-11-18",
+        "time": "20:00",
+        "endTime": "21:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-18",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-18\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400162518112026"
+          ],
+          "dates": [
+            "2026-11-18"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    },
+    {
+      "id": "vesna:400163618112026",
+      "event": {
+        "kind": "activity",
+        "title": "Фитнес-йога",
+        "date": "2026-11-18",
+        "time": "21:00",
+        "endTime": "22:00",
+        "zone": "Europe/Moscow",
+        "repeat": "once",
+        "weekdays": [
+          3
+        ],
+        "until": "2026-11-18",
+        "pattern": [
+          "day",
+          "night",
+          "recovery",
+          "off"
+        ],
+        "category": "",
+        "location": "Весна · Второй (малый) зал",
+        "notes": "Источник расписания: https://vesna-st.ru/schedule\nПреподаватель: Насонова Диана\nПроверенные даты: 2026-11-18\nЗапись и отмена — не позднее чем за 2 часа до занятия. Правила: https://vesna-st.ru/agreementforadults\nДорога и подготовка: по 30 минут до и после (настройка пользователя).",
+        "before": 30,
+        "after": 30,
+        "status": "available",
+        "bookingRequired": true,
+        "bookingLead": 120,
+        "cancellationLead": 120,
+        "absenceLead": 1440,
+        "required": false,
+        "enabled": true,
+        "overrideMode": "replace",
+        "activityMode": "scheduled",
+        "attendanceMode": "booking",
+        "notifyAbsence": false,
+        "bookingConfirmed": false,
+        "source": {
+          "url": "https://vesna-st.ru/schedule",
+          "rulesUrl": "https://vesna-st.ru/agreementforadults",
+          "studio": "Весна",
+          "trainer": "Насонова Диана",
+          "room": "Второй (малый) зал",
+          "commercial": false,
+          "capturedAt": "2026-11-08T15:48:11.976Z",
+          "sessionIds": [
+            "400163618112026"
+          ],
+          "dates": [
+            "2026-11-18"
+          ],
+          "buffersConfigured": true
+        }
+      }
+    }
+  ]
+}

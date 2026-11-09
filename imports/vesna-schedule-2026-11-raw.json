@@ -1,0 +1,3745 @@
+{
+  "source": "https://vesna-st.ru/schedule",
+  "capturedAt": "2026-11-08T15:48:11.976Z",
+  "year": 2026,
+  "availableThrough": "2026-11-29",
+  "unavailableDates": [
+    "2026-11-30"
+  ],
+  "weeks": [
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158705112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043902112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153603112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 04/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159604112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 04/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161904112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Латина микс",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164105112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165506112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 07/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159707112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044102112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153703112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 04/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160604112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165706112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 07/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166807112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 08/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158108112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 08/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167108112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 07/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166907112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 08/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164208112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 08/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167208112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 04/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160804112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "14:00 - 15:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 07/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167007112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046602112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166006112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625102112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166106112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044402112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044902112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157903112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158005112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296036",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020002112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Бачата дэнсфит",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158203112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159203112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159305112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164605112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158306112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166506112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 02/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044602112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158603112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 03/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625703112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 05/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164805112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 06/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165806112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ],
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158712112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043909112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153610112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159611112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164112112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165513112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 14/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159714112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044109112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153710112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160611112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165713112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 14/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166814112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 15/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158115112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 15/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167115112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 14/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166914112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 15/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164215112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 15/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167215112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 14/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167014112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046609112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296031",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161211112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Силовая для начинающих",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166013112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625109112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "306111",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161311112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Мобилити",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166113112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044409112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044909112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157910112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162810112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161911112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Латина микс",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158012112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296036",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020009112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Бачата дэнсфит",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158210112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159210112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160811112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162511112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159312112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164612112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158313112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166513112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 09/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044609112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158610112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 10/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625710112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 11/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400163611112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "21:00 - 22:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 12/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164812112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 13/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165813112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ],
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158719112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043916112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164119112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165520112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159721112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044116112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153717112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165720112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166821112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158122112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167122112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166921112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164222112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167222112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167021112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046616112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296031",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161218112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Силовая для начинающих",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166020112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625116112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "306111",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161318112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Мобилити",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166120112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044416112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044916112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157917112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162817112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161918112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158019112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020016112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158217112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159217112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160818112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162518112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159319112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164619112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158320112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166520112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044616112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625717112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400163618112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164819112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165820112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ],
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158719112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043916112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164119112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165520112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159721112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044116112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153717112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165720112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166821112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158122112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167122112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166921112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164222112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167222112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167021112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046616112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296031",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161218112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Силовая для начинающих",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166020112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625116112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "306111",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161318112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Мобилити",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166120112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044416112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044916112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157917112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162817112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161918112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158019112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020016112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158217112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159217112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160818112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162518112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159319112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164619112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158320112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166520112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044616112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625717112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400163618112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164819112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165820112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ],
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158719112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043916112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164119112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165520112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159721112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044116112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153717112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160618112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165720112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166821112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158122112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167122112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166921112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164222112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 22/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167222112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 21/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167021112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046616112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296031",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161218112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Силовая для начинающих",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166020112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625116112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "306111",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161318112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Мобилити",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166120112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044416112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044916112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157917112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162817112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161918112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158019112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020016112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Латина микс",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158217112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159217112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160818112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162518112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159319112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164619112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158320112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166520112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "ПН. 16/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044616112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158617112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 17/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625717112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-changed mf-cell-pre-entry",
+        "header": "СР. 18/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400163618112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Насонова Диана"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 19/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164819112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 20/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165820112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ],
+    [
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158726112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "10:00 - 11:00",
+        "title": "Здоровье спины",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400043923112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153624112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159625112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164126112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165527112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296021",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 28/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159728112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "11:00 - 12:00",
+        "title": "Интервальная тренировка",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044123112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400153724112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400160625112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165727112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296015",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 28/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166828112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Пилатес классический",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 29/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158129112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "12:00 - 13:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 29/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167129112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "12:00 - 13:00",
+        "title": "Стретчинг",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296038",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 28/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166928112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:30 - 14:30",
+        "title": "Лэдис стайл",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 29/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164229112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "13:00 - 14:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВС. 29/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167229112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "13:00 - 14:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296041",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СБ. 28/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400167028112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "15:00 - 16:00",
+        "title": "Джаз-фанк",
+        "trainer": "Илясова Алёна"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400046623112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "296031",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161225112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Силовая для начинающих",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "306110",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166027112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "17:00 - 18:00",
+        "title": "Аэробика для начинающих",
+        "trainer": "Суркова Ирина"
+      },
+      {
+        "activityId": "306812",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625123112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Подкачка",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "306111",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161325112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Мобилити",
+        "trainer": "Соловьева Анастасия"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166127112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "18:00 - 19:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "302798",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044423112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Герли хип-хоп",
+        "trainer": "Расторгуева Лада"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044923112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400157924112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "296040",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162824112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Дэнс микс",
+        "trainer": "Наконечная Карина"
+      },
+      {
+        "activityId": "298952",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400161925112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "19:00 - 20:00",
+        "title": "Латина микс",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296035",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158026112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "19:00 - 20:00",
+        "title": "Силовая фулл боди",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296036",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400020023112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Бачата дэнсфит",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158224112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400159224112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "302796",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400160825112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:30",
+        "title": "Лэдис стайл ПРО",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296033",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400162525112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Силовая для ягодиц",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "304558",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-money ng-scope fa-float-left",
+          "fa fa-phone"
+        ],
+        "id": "400159326112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296020",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164626112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Аэрофитнес",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296037",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158327112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "20:00 - 21:00",
+        "title": "Зумба",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306183",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400166527112026",
+        "preEntry": true,
+        "room": "Четвертый (малый) зал",
+        "time": "20:00 - 21:00",
+        "title": "Хай хилс",
+        "trainer": "Туча Анна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПН. 23/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400044623112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296017",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400158624112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Здоровье спины",
+        "trainer": "Кайдаш Юлия"
+      },
+      {
+        "activityId": "306422",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ВТ. 24/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "401625724112026",
+        "preEntry": true,
+        "room": "Третий (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Творческая группа",
+        "trainer": "Курков Сергей"
+      },
+      {
+        "activityId": "296013",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "СР. 25/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400163625112026",
+        "preEntry": true,
+        "room": "Второй (малый) зал",
+        "time": "21:00 - 22:00",
+        "title": "Пилатес с оборудованием",
+        "trainer": "Карасева Светлана"
+      },
+      {
+        "activityId": "296018",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ЧТ. 26/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400164826112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Фитнес-йога",
+        "trainer": "Ульянова Жанна"
+      },
+      {
+        "activityId": "296016",
+        "classes": "mf-schedule-cell mf-cell-pre-entry",
+        "header": "ПТ. 27/11",
+        "icons": [
+          "fa fa-phone"
+        ],
+        "id": "400165827112026",
+        "preEntry": true,
+        "room": "Первый (большой) зал",
+        "time": "21:00 - 22:00",
+        "title": "Стретчинг",
+        "trainer": "Кайдаш Юлия"
+      }
+    ]
+  ]
+}

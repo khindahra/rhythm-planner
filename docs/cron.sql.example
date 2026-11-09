@@ -1,0 +1,12 @@
+-- Optional: adapt in your Supabase SQL editor only after configuring push.
+-- Add a secret named rhythm_cron_secret through the Supabase Vault UI first.
+create extension if not exists pg_cron;
+create extension if not exists pg_net with schema extensions;
+select cron.schedule('rhythm-push-every-minute','* * * * *', $job$
+  select net.http_post(
+    url := 'https://YOUR_REF.supabase.co/functions/v1/push-dispatch',
+    headers := jsonb_build_object('Content-Type','application/json','x-cron-secret',
+      (select decrypted_secret from vault.decrypted_secrets where name='rhythm_cron_secret' limit 1)),
+    body := '{}'::jsonb
+  );
+$job$);
